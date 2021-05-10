@@ -1,5 +1,0 @@
-applications:
-- name: predictsal
-  memory: 256M
-  command: python app.py
-  buildpack: https://github.com/cloudfoundry/buildpack-python.git
